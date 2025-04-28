@@ -30,4 +30,4 @@ Manage your daily tasks easily — add, edit, delete, and view tasks through a c
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/aminedev/TaskManagaer
+git clone https://github.com/aminesdev/TaskManagaer
